@@ -1,0 +1,31 @@
+id: P1D9555BD
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG1097
+  instance_id: http://purl.bdrc.io/resource/IE1KG1097
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཀརྨ་རཏྣའི་སྨན་ཡིག་གཅེས་བཏུས།
+  alt_title:
+    zh-hant:
+    - 嘎玛冉纳医著选集
+  author: http://purl.bdrc.io/resource/P1360
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    5d4650cdfc124b4495bc896ecddf4471:
+      title: པོད ༡་ཀརྨ་རཏྣའི་སྨན་ཡིག་གཅེས་བཏུས།
+      volume_number: 1
+      base_file: UT1KG1097_I1KG1117_0000.txt
+      reference: http://purl.bdrc.io/resource/VL42B75D36B1FCF8EB
+      image_group: I1KG1117
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG1097
+  - http://purl.bdrc.io/resource/W1KG1097
+  ocr_software: Namsel
+created_at: '2021-12-22T10:30:34.875970'
+last_modified_at: '2021-12-22T10:30:34.875977'
